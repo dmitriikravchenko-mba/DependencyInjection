@@ -38,4 +38,6 @@ without requiring external storage such as Redis or SQL.
 - Host-local caching
 - Proof-of-concept session handling
 
+## License
 
+MIT
